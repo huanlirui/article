@@ -97,6 +97,3 @@
 
 [HTTP/2 带来了什么](https://github.com/webfansplz/article/blob/master/network/http2.md)
 
-## 公众号
-
-![qrcode](./qrcode.gif)
